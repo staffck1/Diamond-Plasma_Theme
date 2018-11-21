@@ -1,0 +1,29 @@
+                            -------> Installing the theme <-------
+
+[EN]
+
+System-wide install:
+Extract this folder to /usr/share/plasma/desktoptheme directory
+
+User-only install:
+Extract this folder to ~/.local/share/plasma/desktoptheme directory
+
+Select and apply the theme in KDE System Settings > Workspace Appearance > Desktop Theme > Diamond
+
+P.S. To improve the theme experience, install Diamond: https://www.opendesktop.org/p/1002697/
+
+[IT]
+
+Installazione nel sistema:
+Estrarre la cartella in /usr/share/plasma/desktoptheme
+
+Installazione singolo utente:
+Estrarre la cartella in ~/.local/share/plasma/desktoptheme
+
+Selezionare e applicare il tema in Impostazioni di sistema di KDE > Aspetto dello spazio di lavoro > Tema del desktop > Diamante
+
+P.S. Per migliorare l'esperienza del tema, installare Diamond: https://www.opendesktop.org/p/1002697/
+
+
+
+
